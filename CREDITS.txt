@@ -1,0 +1,34 @@
+最高甲殻類裁判所 — 素材出典
+
+効果音の一部は CC0 1.0 素材を編集・波形化して使用しています。
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Kenney — Impact Sounds (1.0)
+https://kenney.nl/assets/impact-sounds
+同梱 KENNEY-LICENSE.txt も参照してください。
+
+VideoEditingSFX — Cyberpunk Stutter Riser
+https://videoeditingsfx.com/sfx/cyberpunk-stutter-riser/
+
+BMacZero / Brian MacIntosh — Metal Impact Sounds
+https://opengameart.org/content/metal-impact-sounds
+
+NenadSimic — Muffled Distant Explosion
+https://opengameart.org/content/muffled-distant-explosion
+
+Spring Spring / Julie Damsgaard — Just a random fanfare
+https://opengameart.org/content/just-a-random-fanfare
+
+trezegames — Pop effect sounds
+https://opengameart.org/content/pop-effect-sounds
+
+外部フォントは同梱していません。端末のシステムフォントを使用します。
+参照した他製品の画像・ロゴ・音声は同梱していません。
+この素材出典表は、ゲーム固有のコード・文章・画像の再利用許諾を与えるものではありません。
+
+
+制作方法
+背景：ChatGPTの画像生成による建築背景。ゲーム用に生成した方向見本から、文字・前景を除いた背景を制作しています。
+金属の「判決」「ザリガニ」：Blenderで形状・材質・照明を組んで描画した画像。
+天秤・アイコン：ゲーム用SVG。ゲーム固有の素材を、外部メーカーの素材として表示するものではありません。
+文字画像はMacのシステムフォントで描画。フォント本体・3D字形データ・Blenderシーンは同梱していません。
